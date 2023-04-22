@@ -1,0 +1,2 @@
+a='haaaa'
+print(a)
